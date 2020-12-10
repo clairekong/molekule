@@ -19,6 +19,7 @@ Steps
 
 Since the beginning of 2020, the outbreak of COVID-19 has been constantly reorienting people's relationship to the outside world. This project provides a small example of the trend of this world pandemic with the help of the API provided by Gramzivi (https://rapidapi.com/Gramzivi/api/covid-19-data/endpoints). This API collects information from several reliable sources, like Johns Hopkins CSSE, CDC, WHO and a few others. 
 
+![Test Image 2](/api.png)
 
 It has several endpoints and the one that I chose is 'the latest daily report all countries'.
 
