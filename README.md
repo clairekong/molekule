@@ -37,15 +37,7 @@ I put the file into a S3 bucket and read it with a PySpark Script in order to sa
 
 Schema:
 
-CREATE EXTERNAL TABLE covid_table (
-    thedate  date,
-    country  string,
-    province  string,
-    confirmed  int,
-    recovered  int,
-    deaths  int
-    )
-    
+![Test Image 1](/schema.png)
     
 
 
