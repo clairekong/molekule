@@ -32,7 +32,7 @@ headers = {
 
 After fetching the data, I filtered the data to include only the first three months of the outbreak in the USA (between 2020-03-01 to 2020-05-31). 
 
-![Test Image 3](/time filter.png)
+![Test Image 3](/time_filter.png)
 
 There are 9 columns in the dataframe: country, province, number of confirmed, number of recovered, number of  deaths, number of active, latitude, longitude and date. 
 
@@ -45,6 +45,16 @@ I put the file into a S3 bucket and read it with a PySpark Script in order to sa
 Schema:
 
 ![Test Image 1](/schema.png)
+
+The table:
+
+![Test Image 5](/table.png)
+
+Some queries:
+
+![Test Image 6](/query1.png)
+
+![Test Image 7](/query2.png)
     
 
 
