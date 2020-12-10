@@ -55,13 +55,15 @@ Some simple queries:
 This query shows that the beginning of the outbreak, Washington went through dark times. 
 https://www.statnews.com/2020/02/29/new-covid-19-death-raises-concerns-about-virus-spread-in-nursing-homes/
 ![Test Image 6](/query1.png)
+Above is data of 2020-03-02
 
 However, after only one month, New York and New Jersey have become even worse. 
 ![Test Image 7](/query2.png)
+Above is data of 2020-05-14
     
-Please stay safe and hope that we can all meet after this pandemic :)!
+Hope everyone stays safe and healthy! Hope we can all meet after this pandemic :)!
 
-Please kindly let me know if you have any questions. 
+Please kindly let me know if you have any questions about the project. Thank you so much.
 
 
 
