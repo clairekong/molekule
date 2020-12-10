@@ -64,7 +64,7 @@ Above is data of 2020-05-14
     
 Hope everyone stays safe and healthy! Hope we can all meet after this pandemic :)!
 
-Please kindly let me know if you have any questions about the project. Thank you so much.
+Please kindly let me know if you have any questions. Thank you so much.
 
 
 
