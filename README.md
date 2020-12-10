@@ -30,9 +30,15 @@ headers = {
     'x-rapidapi-host': "covid-19-data.p.rapidapi.com"
     }
 
-After fetching the data, I filtered the data to include only the first three months of the outbreak in the USA (between 2020-03-01 to 2020-05-31). There are 9 columns in the dataframe: country, province, number of confirmed, number of recovered, number of  deaths, number of active, latitude, longitude and date. 
+After fetching the data, I filtered the data to include only the first three months of the outbreak in the USA (between 2020-03-01 to 2020-05-31). 
+
+![Test Image 3](/time filter.png)
+
+There are 9 columns in the dataframe: country, province, number of confirmed, number of recovered, number of  deaths, number of active, latitude, longitude and date. 
 
 It is transformed into a dataframe and is also written out to a csv file. 
+
+![Test Image 4](/df.png)
 
 I put the file into a S3 bucket and read it with a PySpark Script in order to save it as a table. 
 
