@@ -37,6 +37,7 @@ After fetching the data, I filtered the data to include only the first three mon
 There are 9 columns in the dataframe: country, province, number of confirmed, number of recovered, number of  deaths, number of active, latitude, longitude and date. 
 
 It is transformed into a dataframe and is also written out to a csv file. 
+It occured to me that it would be super interested if we can use the latitude and longitude provided here to do some GIS analysis. 
 
 ![Test Image 4](/df.png)
 
