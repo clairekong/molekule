@@ -53,7 +53,7 @@ The table:
 
 Some simple queries:
 
-This query shows that the beginning of the outbreak, Washington went through dark times. 
+This query shows that at the beginning of the outbreak, Washington surely went through dark times. 
 https://www.statnews.com/2020/02/29/new-covid-19-death-raises-concerns-about-virus-spread-in-nursing-homes/
 ![Test Image 6](/query1.png)
 Above is data of 2020-03-02
